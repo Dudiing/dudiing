@@ -134,10 +134,10 @@ h1.title {
     animation-fill-mode: both; }
 
 .score-container:after {
-  content: "Score"; }
+  content: "Puntos"; }
 
 .best-container:after {
-  content: "Best"; }
+  content: "Record"; }
 
 p {
   margin-top: 0;
@@ -406,7 +406,7 @@ hr {
     color: #354b59;}
   .tile.tile-2 .tile-inner {
     background: url('../tile-sets/presidents/2.jpg');
-    background-size: 100%;
+    background-size: 20%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
